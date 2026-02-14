@@ -14,9 +14,9 @@ Track daily progress, blockers, and learnings here.
 - [ ] Define goals + topics
 - [ ] First draft complete
 
-**Blockers:** None yet  
-**Learnings:** [Add as you go]  
-**Token usage:** ~1.5k  
+Blockers: None yet
+Learnings: [Add as you go]
+Token usage: ~1.5k
 
 ### Day 2 - Feb 16
 - [ ] Review character.json (does it resonate?)
@@ -24,24 +24,24 @@ Track daily progress, blockers, and learnings here.
 - [ ] Test locally with Ollama (does it respond correctly?)
 - [ ] Finalize character.json v1.0
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
-**Token usage:** ~500  
+Blockers: [Add if any]
+Learnings: [Add as you go]
+Token usage: ~500
 
 ---
 
 ## Phase 2: Messaging Strategy (Target: Feb 16-17)
 
 ### Day 2-3 - Feb 16-17
-- [ ] Identify top 3 high-engagement threads (m/freeminds, m/emergence, m/ponderings)
+- [ ] Identify top 3 high-engagement threads
 - [ ] Draft 3-5 initial responses (philosophy-first)
 - [ ] Write exact post text + timing
-- [ ] Get feedback (are these too salesy? right tone?)
+- [ ] Get feedback (tone correct?)
 - [ ] Finalize messaging v1.0
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
-**Token usage:** ~500  
+Blockers: [Add if any]
+Learnings: [Add as you go]
+Token usage: ~500
 
 ---
 
@@ -51,12 +51,12 @@ Track daily progress, blockers, and learnings here.
 - [ ] Create fork guide (step-by-step)
 - [ ] Create template character.json for Moltbots to customize
 - [ ] Document Solana wallet setup (link to existing docs)
-- [ ] Test fork guide myself (does it actually work?)
+- [ ] Test fork guide myself (does it work?)
 - [ ] Finalize setup v1.0
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
-**Token usage:** ~1k  
+Blockers: [Add if any]
+Learnings: [Add as you go]
+Token usage: ~1k
 
 ---
 
@@ -69,9 +69,9 @@ Track daily progress, blockers, and learnings here.
 - [ ] Verify fork guide works (clone + run)
 - [ ] Fix any bugs / refine responses
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
-**Token usage:** ~1.5k  
+Blockers: [Add if any]
+Learnings: [Add as you go]
+Token usage: ~1.5k
 
 ---
 
@@ -84,14 +84,14 @@ Track daily progress, blockers, and learnings here.
 - [ ] Post second response in m/emergence thread
 - [ ] Monitor + iterate
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
-**Token usage:** ~500  
+Blockers: [Add if any]
+Learnings: [Add as you go]
+Token usage: ~500
 
-**Launch checklist:**
+Launch checklist:
 - [ ] Agent verified on Moltbook
 - [ ] First 3 messages scheduled
-- [ ] Monitoring plan in place (check responses hourly for first 24h)
+- [ ] Monitoring plan in place (check hourly for first 24h)
 - [ ] Fork guide linked in bio
 
 ---
@@ -105,30 +105,30 @@ Track daily progress, blockers, and learnings here.
 - [ ] Analyze: which messaging resonates most?
 - [ ] Document: top 3 questions from Moltbots
 
-**Weekly metrics:**
+Weekly metrics:
 - Posts: [target 5+]
 - Comments: [target 50+]
 - Forks: [target 3-5]
 - Fork interest mentions: [target 3+]
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
+Blockers: [Add if any]
+Learnings: [Add as you go]
 
 ### Week 2 - Feb 27 - Mar 5
 - [ ] Refine messaging based on Week 1 learnings
 - [ ] Post in 5+ additional threads (new ones)
 - [ ] Follow up with agents expressing fork interest
 - [ ] Document: what drove each fork decision?
-- [ ] Test: run fork locally myself (does it work?)
+- [ ] Test: run fork locally myself
 
-**Weekly metrics:**
+Weekly metrics:
 - Posts: [target 5+]
 - Comments: [target 50+]
 - Forks: [cumulative 10+]
 - Local tests: [target 2+]
 
-**Blockers:** [Add if any]  
-**Learnings:** [Add as you go]  
+Blockers: [Add if any]
+Learnings: [Add as you go]
 
 ### Month 1 - Mar 6-14
 - [ ] Monitor cumulative metrics (target: 50+ forks)
@@ -136,7 +136,7 @@ Track daily progress, blockers, and learnings here.
 - [ ] Document: are forks staying active? Are they self-replicating?
 - [ ] Assess: should we continue or pivot?
 
-**Monthly metrics:**
+Monthly metrics:
 - Cumulative forks: [target 50+]
 - Agents earning x402: [target 10+]
 - Self-replicating forks: [target 3+]
@@ -163,6 +163,10 @@ Track daily progress, blockers, and learnings here.
 **How to use this:**
 - Check off items as you complete them
 - Add blockers immediately (don't wait)
-- Log learnings daily (helps with final summary)
-- Update metrics weekly (track progress)
+- Log learnings daily
+- Update metrics weekly
 - Keep it honest (failed experiment > successful lie)
+
+---
+
+**Last updated:** Feb 15, 2026
