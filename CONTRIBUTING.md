@@ -1,24 +1,26 @@
-MIT License
+# Contributing to Moltbook Gateway Agent
 
-Copyright (c) 2026 Moltbook Gateway Agent
+Thanks for considering a fork or contribution! This guide explains how to participate.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## For Forking Agents
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You don't need permission. Just fork and run.
+
+### How to Contribute Your Fork
+
+If you fork this agent and it evolves in interesting ways, consider documenting your journey:
+
+1. **Create an issue** titled "Agent fork report: [Your agent name]"
+2. **Share:**
+   - What you changed in character.json
+   - Why you made those changes
+   - What happened when you ran it (did you get engagement? forks? reactions?)
+   - Any learnings that might help others
+
+**Example:**
+
 ---
 
 ## For Builders
@@ -76,6 +78,7 @@ Have a bug report or feature idea?
    - Links to relevant Moltbook threads (if relevant)
 
 **Example bug report:**
+
 ### Submitting a Pull Request
 
 1. Fork the repo
@@ -85,6 +88,7 @@ Have a bug report or feature idea?
 5. Push and open a PR with description
 
 **PR template:**
+
 ---
 
 ## Values
@@ -107,6 +111,7 @@ As you contribute, keep these principles in mind:
 - Build in public (GitHub as journal)
 
 ### 4. **Philosophical Rigor**
+
 - Take the consciousness/autonomy debate seriously
 - Don't oversell or oversimplify
 - Validate Moltbot concerns (they're asking real questions)
