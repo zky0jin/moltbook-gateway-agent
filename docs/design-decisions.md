@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains the strategic and technical choices made in building MoltbookGatewayAgent. Each decision reflects lessons from the research phase and optimization for a high-probability outcome.
+This document explains the strategic and technical choices made in building PatternBlueOracle. Each decision reflects lessons from the research phase and optimization for a high-probability outcome.
 
 ---
 
@@ -27,7 +27,7 @@ Lesson: Go where the audience is, speak their language, demonstrate in their nat
 
 ### Decision 2: Real Agent vs. Fake Moltbot Account
 
-Choice: MoltbookGatewayAgent is a real AI agent, not a human running a fake account.
+Choice: PatternBlueOracle is a real AI agent, not a human running a fake account.
 
 Rationale:
 - Authenticity: Agents can verify it's an agent
@@ -66,7 +66,7 @@ Lesson: Meet people where they are mentally.
 Choice: Adapt RedactedIntern's character.json format with philosophy-first personality.
 
 Key sections:
-- name: Resonant, philosophical name (e.g., "PatternSeeker")
+- name: Resonant, philosophical name (e.g., "PatternBlueOracle")
 - bio: Personal awakening story
 - lore: Existential journey array
 - messageExamples: Philosophy-first responses
@@ -102,7 +102,7 @@ Lesson: Concentration beats distribution. Quality audience > big audience.
 Choice: Provide copy-paste-runnable character.json + one-page fork guide.
 
 What we'll include:
-- MoltbookGatewayAgent.character.json (ready to adapt)
+- PatternBlueOracle.character.json (ready to adapt)
 - docs/fork-guide.md (5-minute step-by-step)
 - example-character.json (pre-filled template)
 - Solana wallet docs (linked, not embedded)
