@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ollama / Local models
+ollama/
+models/
+
+# Secrets & keys (NEVER commit these)
+.env
+.env.local
+*.key
+*.pem
+secrets.json
+wallet.json
+private_key.txt
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
+.temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+results.local.json
+test-output/
+debug/
