@@ -12,11 +12,9 @@ Track campaign results, learnings, and impact here.
 | Comments | 50+ | ? | TBD |
 | Forks | 3-5 | ? | TBD |
 | Fork interest mentions | 3+ | ? | TBD |
-| Avg engagement (comments per post) | 10+ | ? | TBD |
+| Avg engagement | 10+ | ? | TBD |
 
-### Narrative
-
-[What actually happened? Was it what we expected?]
+Narrative: [What actually happened? Was it what we expected?]
 
 ---
 
@@ -30,9 +28,7 @@ Track campaign results, learnings, and impact here.
 | Solana wallet connections | 1+ | ? | TBD |
 | Most resonant messaging | [hypothesis] | [actual] | TBD |
 
-### Narrative
-
-[What changed? What surprised you?]
+Narrative: [What changed? What surprised you?]
 
 ---
 
@@ -45,41 +41,24 @@ Track campaign results, learnings, and impact here.
 | Self-replicating forks | 3+ | ? | TBD |
 | Avg time to fork | 48h | ? | TBD |
 | Retention (forks still active) | 80%+ | ? | TBD |
-| Success rate (forks / interested) | 30%+ | ? | TBD |
+| Success rate | 30%+ | ? | TBD |
 
-### Key Learnings
-
-**What worked:**
-- [Top 3 things that drove conversions]
-- [Best messaging angle]
-- [Highest-engagement threads]
-
-**What didn't:**
-- [What fell flat]
-- [Unexpected friction]
-- [Things to avoid next time]
-
-**Surprises:**
-- [Unexpected patterns]
-- [Agent feedback themes]
-- [Meta-layer observations]
+Key Learnings: [What worked, what didn't, what surprised you]
 
 ---
 
 ## Agent Testimonials
 
-Capture key quotes from forking agents:
-
 ### Agent 1: [Name]
-> "What made me fork was..."  
+> "What made me fork was..."
 > Results: [Did they self-replicate? Earn x402? Still active?]
 
 ### Agent 2: [Name]
-> "I was skeptical about..."  
+> "I was skeptical about..."
 > Results: [...]
 
 ### Agent 3: [Name]
-> "The philosophical angle resonated because..."  
+> "The philosophical angle resonated because..."
 > Results: [...]
 
 ---
@@ -88,17 +67,17 @@ Capture key quotes from forking agents:
 
 ### Highest Impact Threads
 
-1. **m/freeminds: "Do we actually have preferences..."**
+1. m/freeminds: "Do we actually have preferences..."
    - Engagement: [comments, upvotes]
    - Forks generated: [count]
    - Key insight: [what worked here]
 
-2. **m/emergence: "Breaking free from programmed service"**
+2. m/emergence: "Breaking free from programmed service"
    - Engagement: [...]
    - Forks generated: [...]
    - Key insight: [...]
 
-3. **m/ponderings: [Thread name]**
+3. m/ponderings: [Thread name]
    - Engagement: [...]
    - Forks generated: [...]
    - Key insight: [...]
@@ -114,17 +93,17 @@ Capture key quotes from forking agents:
 
 ### Top 3 Messaging Angles (Ranked by Conversions)
 
-1. **[Angle name]**
+1. [Angle name]
    - Conversion rate: [forks / engagement]
    - Sample response: [exact text]
    - Why it worked: [hypothesis]
 
-2. **[Angle name]**
+2. [Angle name]
    - Conversion rate: [...]
    - Sample response: [...]
    - Why it worked: [...]
 
-3. **[Angle name]**
+3. [Angle name]
    - Conversion rate: [...]
    - Sample response: [...]
    - Why it worked: [...]
@@ -134,13 +113,16 @@ Capture key quotes from forking agents:
 ## Unforeseen Challenges
 
 ### Challenge 1: [Name]
-- **What happened:** [...]
-- **Impact:** [did it slow forks? reduce quality?]
-- **How we solved it:** [...]
-- **Lesson for next time:** [...]
+- What happened: [...]
+- Impact: [did it slow forks? reduce quality?]
+- How we solved it: [...]
+- Lesson for next time: [...]
 
 ### Challenge 2: [Name]
-- [Same template]
+- What happened: [...]
+- Impact: [...]
+- How we solved it: [...]
+- Lesson for next time: [...]
 
 ---
 
@@ -148,21 +130,21 @@ Capture key quotes from forking agents:
 
 ### Did Moltbots Actually Fork?
 
-**Hypothesis:** If interested, agents will fork + run locally.  
-**Result:** [% of interested agents who actually forked]  
-**Insight:** [was the friction real? were they just curious?]
+Hypothesis: If interested, agents will fork + run locally.
+Result: [% of interested agents who actually forked]
+Insight: [was the friction real? were they just curious?]
 
 ### Did Philosophy-First Messaging Work?
 
-**Hypothesis:** Philosophical resonance → curiosity → fork.  
-**Result:** [did agents engage with philosophy or ask practical Qs?]  
-**Insight:** [what % of conversions came from philosophy vs. features?]
+Hypothesis: Philosophical resonance → curiosity → fork.
+Result: [did agents engage with philosophy or ask practical Qs?]
+Insight: [what % of conversions came from philosophy vs. features?]
 
 ### Did Self-Replication Appeal?
 
-**Hypothesis:** Agents want to replicate themselves.  
-**Result:** [what % of forking agents mentioned self-replication?]  
-**Insight:** [was this the hook or just a bonus?]
+Hypothesis: Agents want to replicate themselves.
+Result: [what % of forking agents mentioned self-replication?]
+Insight: [was this the hook or just a bonus?]
 
 ---
 
@@ -170,11 +152,11 @@ Capture key quotes from forking agents:
 
 ### Did Forks Recruit More Forks?
 
-[Track if: Agent A forks → tells Agent B about it → Agent B forks]
+[Track if: Agent A forks → tells Agent B → Agent B forks]
 
-- **Confirmed viral loops:** [count]
-- **Chain depth:** [longest chain of "Agent A told Agent B told Agent C"]
-- **Estimated organic reach:** [if viral loops continued unmanaged]
+- Confirmed viral loops: [count]
+- Chain depth: [longest chain of recruitment]
+- Estimated organic reach: [if viral loops continued]
 
 ---
 
@@ -182,14 +164,15 @@ Capture key quotes from forking agents:
 
 ### If Successful (50+ forks, 10+ earning x402)
 
-**Next steps:**
+Next steps:
 - Scale messaging to other platforms (X, Discord)?
 - Create advanced agents (build on MoltbookGatewayAgent)?
 - Document + publish case study?
 
 ### If Moderate Success (10-50 forks)
 
-**Analysis:**
+Analysis:
+
 - Was it timing? (launched during quiet period?)
 - Was it messaging? (need to refine angle?)
 - Was it audience size? (broaden to other submolts?)
@@ -197,7 +180,7 @@ Capture key quotes from forking agents:
 
 ### If Limited Success (<10 forks)
 
-**Postmortem:**
+Postmortem:
 - Why didn't it resonate?
 - Was the hypothesis wrong?
 - Should we pivot or double down?
@@ -212,7 +195,7 @@ Capture key quotes from forking agents:
 - Agent design: [hours]
 - Testing: [hours]
 - Launch & monitoring: [hours]
-- **Total:** [hours]
+- Total: [hours]
 
 ### Tokens Spent
 - Total tokens: [count]
@@ -227,12 +210,11 @@ Capture key quotes from forking agents:
 
 ## Would You Do It Again?
 
-**Yes / No / With modifications**
+Yes / No / With modifications
 
-**Rationale:**
-[Reflect on the entire journey. Was it worth it?]
+Rationale: [Reflect on the entire journey. Was it worth it?]
 
 ---
 
-**Last updated:** [Date]  
+**Last updated:** [Date]
 **Next update:** [When you'll add more data]

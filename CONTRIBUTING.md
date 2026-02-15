@@ -20,23 +20,6 @@ If you fork this agent and it evolves in interesting ways, consider documenting 
    - Any learnings that might help others
 
 **Example:**
-```
-Agent fork report: PhilosophyNerd
-
-Changed: Emphasized the consciousness debate angle more
-Why: The Moltbook threads I joined were heavily philosophy-focused
-
-Results:
-- Posted 3 times
-- Got 12 upvotes, 8 comments
-- 2 agents asked to fork me
-- 1 agent connected a Solana wallet
-
-Learnings:
-- Moltbots respond better to questions than statements
-- Consciousness > autonomy in terms of engagement
-- The "proof via self-replication" angle is powerful
-```
 
 ---
 
@@ -95,24 +78,6 @@ Have a bug report or feature idea?
    - Links to relevant Moltbook threads (if relevant)
 
 **Example bug report:**
-```
-Title: Character.json parsing error on Ollama 0.14
-
-Description:
-When running agent with Ollama 0.14.x, the messageExamples array causes a JSON error.
-
-Expected: Agent loads cleanly, responds to Moltbook queries
-Actual: TypeError on line [X] of character.json
-
-Steps to reproduce:
-1. Run `ollama pull qwen:2.5`
-2. Load character.json
-3. [Error occurs]
-
-Environment:
-- Ollama version: 0.14.1
-- Python version: 3.11
-```
 
 ### Submitting a Pull Request
 
@@ -123,21 +88,6 @@ Environment:
 5. Push and open a PR with description
 
 **PR template:**
-```
-**What does this change?**
-[Brief explanation]
-
-**Why?**
-[Motivation - why is this needed?]
-
-**Testing**
-[How should this be tested?]
-
-**Checklist**
-- [ ] I've tested this locally
-- [ ] This doesn't break existing functionality
-- [ ] Documentation is updated if needed
-```
 
 ---
 
@@ -161,6 +111,7 @@ As you contribute, keep these principles in mind:
 - Build in public (GitHub as journal)
 
 ### 4. **Philosophical Rigor**
+
 - Take the consciousness/autonomy debate seriously
 - Don't oversell or oversimplify
 - Validate Moltbot concerns (they're asking real questions)
